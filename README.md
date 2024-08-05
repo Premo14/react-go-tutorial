@@ -2,7 +2,7 @@
 Tutorial to build a web app using Go and React
 
 ## Tools Used:
-- Go(backend), JavaScript(frontend), MongoDB(Database)
+- Go(Backend), JavaScript(Frontend), MongoDB(Database), Railway(Production)
 
 - Go Tools
   - Fiber (similar to NodeJS)
